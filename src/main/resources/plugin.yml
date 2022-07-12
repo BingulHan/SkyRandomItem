@@ -1,0 +1,5 @@
+name: SkyRandomItem
+version: '${project.version}'
+main: online.bingulhan.skyrandomitem.SkyRandomItem
+api-version: 1.19
+authors: [ BingulHan ]
